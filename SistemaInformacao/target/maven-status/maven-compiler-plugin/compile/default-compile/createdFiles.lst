@@ -4,6 +4,7 @@ view\ListaCompras$1.class
 model\ListaCompra.class
 view\ListaCompras$2.class
 view\TelaPessoa.class
+model\ListaPessoa.class
 view\TelaPessoa$2.class
 view\ListaCompras.class
 view\ListaCompras$3.class

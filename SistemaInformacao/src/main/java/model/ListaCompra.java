@@ -12,7 +12,8 @@ import java.util.ArrayList;
  */
 public class ListaCompra {
     String produto;
-    private ArrayList<String> listacompra= new ArrayList<>();
+    ArrayList<String> listacompra= new ArrayList<>();
+    
     public ListaCompra(){}
     public ListaCompra(String produto){
         this.produto = produto;
